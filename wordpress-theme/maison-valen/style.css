@@ -1,0 +1,17 @@
+/*
+Theme Name: Maison Valen
+Theme URI: https://maisonvalen.com/wordpress-theme
+Author: Maison Valen Engineering (Zurich & London)
+Author URI: https://maisonvalen.com
+Description: Custom luxury editorial and architectural agency WordPress theme engineered without page-builder bloat. Features Customizer live controls, Services & Portfolio custom post types, native admin meta panels, hardened AJAX lead & newsletter forms, and Schema.org SEO metadata.
+Version: 1.0.0
+Requires at least: 6.4
+Tested up to: 6.7
+Requires PHP: 8.1
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: maison-valen
+Tags: agency, luxury, portfolio, custom-menu, custom-logo, featured-images, accessibility-ready, translation-ready
+*/
+
+@import url('assets/css/theme.css');
